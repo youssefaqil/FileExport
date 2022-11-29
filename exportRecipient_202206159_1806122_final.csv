@@ -1,0 +1,16 @@
+DATE DE LA CAMPAGNE;NOM DE LA CAMPAGNE;Prénom;Nom;DESTINATAIRE;Code statut;Libelle Statut;DATE ENVOI CAMPAGNE
+07/06/2022 20:00;Kering - Convention XXX;nelly;hamel;nelly.hamel@neuf.fr;0;Délivré avec succès;07/06/2022 20:00
+07/06/2022 20:00;Kering - Convention XXX;ariane;malzac;malzacariane@gmail.com;1;Non délivré : lié à l’opérateur;07/06/2022 20:00
+07/06/2022 20:00;Kering - Convention XXX;michael;wemel;wemel.michael@gmail.com;2;Non délivré : lié au client (portable éteint, mobile injoignable);07/06/2022 20:00
+07/06/2022 20:00;Kering - Convention XXX;joel;lanigi;paolaniggi@yahoo.fr;3;Non délivré : n° en liste noire;07/06/2022 20:00
+07/06/2022 20:00;Kering - Convention XXX;chloe;ramadasse;marinaramadasse@gmail.com;4;Non délivré : lié au n° abonné inconnu, n° non attribué;07/06/2022 20:00
+07/06/2022 20:00;Kering - Convention XXX;zabou;vuillemeot;laurentvuillemot@yahoo.fr;5;Non délivré : notification finale non reçue;07/06/2022 20:00
+07/06/2022 20:00;Kering - Convention XXX;lynda;quate;lynda.4@free.fr;6;Non délivré : rejet à l’intégration;07/06/2022 20:00
+07/06/2022 20:00;Kering - Convention XXX;elisabeth;carpentier;elisabeth.carpentier@sodexo.com;10;Suspension sur SMS STOP;07/06/2022 20:00
+07/06/2022 20:00;Kering - Convention XXX;caroline;gaillard;cgaillard@toqueetchic.com;11;Non délivré : N° en cours de portage ;07/06/2022 20:02
+07/06/2022 20:00;Kering - Convention XXX;;;RENNES_BDDF_APAC_FP_NATIO_VIE@BNPPARIBAS.COM;12;Non délivré : N° en liste jaune ou activation du destinataire en liste jaune;08/06/2022 14:31
+07/06/2022 20:00;Kering - Convention XXX;;;MERIGNAC;99;Non délivré : autres causes;08/06/2022 15:59
+07/06/2022 20:00;Kering - Convention XXX;pia;dut;piadut@gmail.com;-5;Erreur technique lors de l’envoi à ATOS;08/06/2022 15:59
+07/06/2022 20:00;Kering - Convention XXX;elisabeth;carpentier;elisabeth.carpentiersodexo.com;-4;Non envoyé à ATOS suite à un format non conforme;08/06/2022 15:59
+07/06/2022 20:00;Kering - Convention XXX;elisabeth;carpentier;elisabeth.carpentiersodexo.com;-3;L'adresse email n'est pas valide.;08/06/2022 15:59
+07/06/2022 20:00;Kering - Convention XXX;albert;barry;abarry@gmail.com;-2;Le message a été envoyé à AWL. Aucun rapport n'a été encore réçu de ATOS concernant le status de ce message;08/06/2022 15:59
